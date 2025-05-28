@@ -83,7 +83,6 @@ div.gallery img {
   animation-duration: .3s;
   animation-fill-mode: forwards;
   width: calc(100vw - 60px);
-  transition: .5s ease;
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
