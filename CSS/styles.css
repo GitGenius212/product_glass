@@ -170,6 +170,10 @@ div.gallery img {
         display: inline-block;
     }
     
+    .pagination a {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
 
 }
 
